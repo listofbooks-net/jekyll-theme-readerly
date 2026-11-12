@@ -1,3 +1,5 @@
+> **Archived.** The Jekyll version of Readerly is no longer maintained. Readerly continues for [WordPress](https://github.com/listofbooks-net/readerly-theme), [Hugo](https://github.com/listofbooks-net/hugo-theme-readerly) and Ghost.
+
 # Readerly
 
 Readerly is a free Jekyll theme for book blogs, author sites and reading logs. It runs on GitHub Pages with no plugins beyond the ones Pages already allows.
